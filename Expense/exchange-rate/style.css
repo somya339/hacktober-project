@@ -5,7 +5,7 @@
 }
 
 :root {
-  --primary-color: #5fbaa7;
+  --primary-color: red;
 }
 
 * {
@@ -13,7 +13,7 @@
 }
 
 body {
-  background-color: #dce1df;
+  background-color: green;
   font-family: Arial, Helvetica, sans-serif;
   display: flex;
   flex-direction: column;
@@ -101,7 +101,7 @@ button:focus {
 }
 
 .card {
-  box-shadow: -5px -5px 15px #f4ededf0, 10px 10px 15px #00000042;
+  box-shadow: -5px -5px 15px #fff, 10px 10px 15px #00000042;
   border-radius: 40px;
   padding: 67px;
   display: flex;
